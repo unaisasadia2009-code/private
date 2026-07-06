@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <p>its function called paragraph <br> thats called break line </p>
+<hr>
+<ol> 
+<li> list sign to  make list in order </li>
+</ol>
+<ul> that sign donated unorder list 
+<li> rice </li>
+<li> flour</li> 
+</ul>
+  <img src="" alt="">
+  <a href=""></a>
+  <video src="" ></video>
+  <form>
+    <input type="test" placeholder="enter">
+  </form>
+</body>
+</html>
