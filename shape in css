@@ -1,0 +1,36 @@
+#box{
+height: 200px;
+width: 200px;
+background color:red
+margin: 50px;
+panding:20;
+}
+
+#parents{
+    height: 200px;
+     width: 200px;
+     background color:red
+}
+
+#child{
+  height: 200px;
+width: 200px;
+background color:blue 
+}
+
+button{
+   margin: 50px;
+panding_left :20;
+panding_right:30;
+font _size:20px;
+color:yellow
+background color:red
+boarder: 2px solid black
+font-weight; 600;
+}
+
+button:hover{
+ background -color :white 
+ color:red
+
+pan
