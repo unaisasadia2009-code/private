@@ -1,0 +1,31 @@
+function walk(){
+console.log("chal rahi hu")
+}
+
+function sing(){
+console.log("main hoo gian ")
+}
+
+function dance(){
+console.log("no dance ")
+}
+
+function greet(){
+console.log("good night")
+}
+
+function abc(){
+console.log("helllooo")
+}
+abc()
+greet()
+walk()
+sing()
+dance()
+
+function greet(a){
+console.log("good night",a)
+}
+greet("wow")
+
+
