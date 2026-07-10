@@ -1,0 +1,32 @@
+if(10<5){
+  console.log("correct")
+}else{
+  console.log("not correct ")
+}
+
+ver age=prompt("enter your age")
+  
+  if(age>18){
+  console.log("vote")
+}else{
+  console.log("not vote")
+}
+
+var a=0
+  
+  while(a<5) {
+  console.log("hello")
+    a++
+}
+
+for(var a=0; a<5; a++){
+  console.log("hello")
+}
+
+var a=10
+var b=20
+  if(a==b){
+  console.log("correct")
+}else{
+  console.log("wrong")
+}
